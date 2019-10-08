@@ -2,5 +2,9 @@
 
 def countdown(n)
   counter = n
-  while 
+  while counter > 0 do
+    n.times do
+      counter -= 1
+      puts "HAPPY NEW YEAR"
+end
 end
